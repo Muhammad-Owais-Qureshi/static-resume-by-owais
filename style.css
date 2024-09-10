@@ -74,11 +74,11 @@ ul .information{
 
 
 
-@media only screen and (max-width:425px) {
+@media only screen and (max-width:425px) and (min-width:400px) {
     .footer{
-        width: 400px;
+        width: 380px;
         position: sticky;
-        margin-bottom: 20px;
+        margin-bottom: 23px;
 
     }
     .headind-left{
